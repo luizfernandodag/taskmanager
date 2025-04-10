@@ -13,6 +13,5 @@ Exposes a test endpoint: `/api/hello`.
 
 ```bash
 mvn spring-boot:run
-yaml
-CopyEdit
+
 
