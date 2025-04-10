@@ -1,4 +1,4 @@
-# Task Manager (Week 1)
+# Task Manager
 
 Simple Spring Boot starter project with PostgreSQL.
 Exposes a test endpoint: `/api/hello`.
